@@ -12,9 +12,6 @@ This project is a secure document storage system built using **ASP.NET Core**, *
 - 🔒 Each user can access only their own files
 - 💾 Files stored in SQL Server as BLOBs
 - 🔬 Swagger UI for API testing
-- 🧪 xUnit-ready for unit testing
-- 🌐 Basic frontend in HTML + JavaScript (optional)
-
 ---
 
 ## 🛠 Tech Stack
@@ -23,7 +20,6 @@ This project is a secure document storage system built using **ASP.NET Core**, *
 - Auth: JWT (JSON Web Tokens)
 - Database: SQL Server with EF Core
 - Frontend: HTML + JS (inside `wwwroot`)
-- Testing: xUnit (optional)
 - Docs: Swagger (OpenAPI)
 
 ---
